@@ -1,0 +1,19 @@
+body, p, h1, h2, h3, h4, h5, h6 {
+  font-family: "Open Sans", 
+    "SF Pro HK", "SF Pro TC", "SF Pro SC", 
+    "SF Pro Display", "SF Pro Text", "SF Pro Icons", 
+    "Segoe UI", SegoeUI, 
+    "Microsoft JhengHei", 微軟正黑體, "Microsoft YaHei", 微软雅黑, 
+    "PingFang HK", "PingFang TC", "PingFang SC", 
+    Arial, sans-serif;
+}
+.header-section, .reveal-content, .menu-container, 
+.footer-section {
+  font-family: Muli, "Open Sans", 
+    "SF Pro HK", "SF Pro TC", "SF Pro SC", 
+    "SF Pro Display", "SF Pro Text", "SF Pro Icons", 
+    "Segoe UI", SegoeUI, 
+    "Microsoft JhengHei", 微軟正黑體, "Microsoft YaHei", 微软雅黑, 
+    "PingFang HK", "PingFang TC", "PingFang SC", 
+    Arial, sans-serif;
+}
