@@ -1,0 +1,20 @@
+.node__content > .layout:first-child {
+	margin: 0px !important;
+}
+
+.header-data-pc .site-info, .header-data-mobile .site-info {
+	margin-bottom: 8px;
+}
+
+.header-data-pc .main-menu, .header-data-mobile .main-menu {
+	padding-bottom: 16px;
+}
+
+.region-breadcrumb {
+	display: none;
+}
+
+main {
+	position: relative;
+	z-index: 1;
+}
