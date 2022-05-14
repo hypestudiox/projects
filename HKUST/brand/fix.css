@@ -11,7 +11,7 @@
 }
 
 .region-breadcrumb {
-	display: none;
+	display: none !important;
 }
 
 main {
